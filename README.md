@@ -114,18 +114,6 @@ In this phase, we dive deep into the dataset using several techniques:
 
 ---
 
-### 📝 **Contributing**
-
-We welcome contributions! Feel free to fork this repository and make pull requests. If you encounter any issues or have new ideas, please open an issue.
-
----
-
-### 📄 **License**
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ### 💬 **Contact**
 
 - **GitHub**: [ozarakesh533](https://github.com/ozarakesh533)
